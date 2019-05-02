@@ -21,11 +21,19 @@ new branch krish3
 change in master to test branch 
 new changes 
 changes after krish3 branch update
+<<<<<<< HEAD
 
 
+<<<<<<< HEAD
 
 new changes
 
 change in github
 
 changes for branch test1
+=======
+new changes
+=======
+change in github
+>>>>>>> 8c72400e477f6c371e1a64ec242256fdc4768227
+>>>>>>> 858e898de995bf337b07c5c798f9c6abbdbdf6fd
