@@ -29,8 +29,6 @@ change in github
 
 changes for branch test1
 
-branch appu
-
 changes after branch pushed
 
 new changes
@@ -41,3 +39,4 @@ new changes after new folder made
 
 changes for krish100
 
+appi appi
